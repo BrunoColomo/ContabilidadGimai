@@ -1,6 +1,0 @@
-C:\Users\Brunito\source\repos\Contabilidad GIMAI\Post Install\bin\Release\Post Install.dll
-C:\Users\Brunito\source\repos\Contabilidad GIMAI\Post Install\bin\Release\Post Install.pdb
-C:\Users\Brunito\source\repos\Contabilidad GIMAI\Post Install\obj\Release\Post Install.csprojAssemblyReference.cache
-C:\Users\Brunito\source\repos\Contabilidad GIMAI\Post Install\obj\Release\Post Install.csproj.CoreCompileInputs.cache
-C:\Users\Brunito\source\repos\Contabilidad GIMAI\Post Install\obj\Release\Post Install.dll
-C:\Users\Brunito\source\repos\Contabilidad GIMAI\Post Install\obj\Release\Post Install.pdb
