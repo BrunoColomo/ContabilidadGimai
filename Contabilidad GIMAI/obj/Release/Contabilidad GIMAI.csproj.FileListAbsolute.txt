@@ -1,0 +1,18 @@
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\bin\Release\Contabilidad GIMAI.exe.config
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\bin\Release\Contabilidad GIMAI.exe
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\bin\Release\Contabilidad GIMAI.pdb
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\bin\Release\es-AR\Contabilidad GIMAI.resources.dll
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Release\Interop.LCC11.dll
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Release\Contabilidad GIMAI.csproj.ResolveComReference.cache
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Release\Contabilidad_GIMAI.Contabilidad.resources
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Release\Contabilidad_GIMAI.Informes.resources
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Release\Contabilidad_GIMAI.MenuInicio.resources
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Release\Contabilidad_GIMAI.IngresarMovimiento.resources
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Release\Contabilidad_GIMAI.Properties.Resources.resources
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Release\Contabilidad_GIMAI.IngresarMovimiento.es-AR.resources
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Release\Contabilidad GIMAI.csproj.GenerateResource.cache
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Release\Contabilidad GIMAI.csproj.CoreCompileInputs.cache
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Release\es-AR\Contabilidad GIMAI.resources.dll
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Release\Contabilidad GIMAI.exe
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Release\Contabilidad GIMAI.pdb
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Release\Contabilidad GIMAI.csprojAssemblyReference.cache

@@ -1,0 +1,21 @@
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\bin\Debug\Contabilidad GIMAI.exe.config
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\bin\Debug\Contabilidad GIMAI.exe
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\bin\Debug\Contabilidad GIMAI.pdb
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Debug\Contabilidad_GIMAI.Properties.Resources.resources
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Debug\Contabilidad GIMAI.csproj.GenerateResource.cache
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Debug\Contabilidad GIMAI.csproj.CoreCompileInputs.cache
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Debug\Contabilidad GIMAI.exe
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Debug\Contabilidad GIMAI.pdb
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Debug\Contabilidad GIMAI.csproj.ResolveComReference.cache
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Debug\Contabilidad GIMAI.csprojAssemblyReference.cache
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Debug\Contabilidad_GIMAI.IngresarMovimiento.resources
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Debug\Contabilidad_GIMAI.MenuInicio.resources
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Debug\Contabilidad_GIMAI.Contabilidad.resources
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Debug\Interop.LCC11.dll
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\bin\Debug\es-AR\Contabilidad GIMAI.resources.dll
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Debug\Contabilidad_GIMAI.IngresarMovimiento.es-AR.resources
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Debug\es-AR\Contabilidad GIMAI.resources.dll
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Debug\Contabilidad_GIMAI.Informes.resources
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Debug\Contabilidad_GIMAI.BuscarContacto.resources
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Debug\Contabilidad_GIMAI.NuevoContacto.resources
+C:\Users\Brunito\source\repos\Contabilidad GIMAI\Contabilidad GIMAI\obj\Debug\Contabilidad_GIMAI.Repartos.resources

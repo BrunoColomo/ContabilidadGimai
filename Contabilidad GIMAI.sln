@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contabilidad GIMAI", "Contabilidad GIMAI\Contabilidad GIMAI.csproj", "{6A5402DC-2BAA-43DC-A2B7-7A1305BFD245}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Gestión Contable", "Installer\Installer.vdproj", "{A409BF0C-FC6D-442D-81FB-D39505C82563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Post Install", "Post Install\Post Install.csproj", "{161A424C-2CBC-48FE-A27A-D2C39D1E2AD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A5402DC-2BAA-43DC-A2B7-7A1305BFD245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5402DC-2BAA-43DC-A2B7-7A1305BFD245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5402DC-2BAA-43DC-A2B7-7A1305BFD245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5402DC-2BAA-43DC-A2B7-7A1305BFD245}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A409BF0C-FC6D-442D-81FB-D39505C82563}.Debug|Any CPU.ActiveCfg = Debug
+		{A409BF0C-FC6D-442D-81FB-D39505C82563}.Release|Any CPU.ActiveCfg = Release
+		{161A424C-2CBC-48FE-A27A-D2C39D1E2AD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161A424C-2CBC-48FE-A27A-D2C39D1E2AD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161A424C-2CBC-48FE-A27A-D2C39D1E2AD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161A424C-2CBC-48FE-A27A-D2C39D1E2AD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {46A21957-39AC-421B-9F1F-FABC40EA56BD}
+	EndGlobalSection
+EndGlobal
